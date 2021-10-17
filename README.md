@@ -24,6 +24,8 @@ Results:
 ##Deliverable 1: Replace ninth-grade reading and math scores to NaN
 The school district discovered that all standardized test scores for Thomas high School ninth grade students were altered and must be removed from the dataset. All other grades made by the other classes at Thomas High School were left intact.
 
+![Ninth Grade NaN Replacement](Resources/Deliverable1.png)
+
 We have filled the math and reading scores with "NaN". "NaN" represents "Not-a-Number" value. We have replced the scores with "NaN' for 461 student records. 
 
 
