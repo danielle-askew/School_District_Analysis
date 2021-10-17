@@ -21,7 +21,7 @@ Tools used:
 
 The purpose of this analysis is well defined (3 pt).
 Results:
-##Deliverable 1: Replace ninth-grade reading and math scores to NaN
+## Deliverable 1: Replace ninth-grade reading and math scores to NaN
 The school district discovered that all standardized test scores for Thomas high School ninth grade students were altered and must be removed from the dataset. All other grades made by the other classes at Thomas High School were left intact.
 
 ![Ninth Grade NaN Replacement](Resources/Deliverable1.png)
@@ -33,8 +33,10 @@ We have filled the math and reading scores with "NaN". "NaN" represents "Not-a-N
 Although this may seem like a significant number, these score replacements did not alter data summaries tremendously overall.
 
 
-##Deliverable 2: Repeat the school district analysis
+## Deliverable 2: Repeat the school district analysis
+1. School District Summary
 
+![school district summary](Resources/District_Summary.png)
 
 There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
 Summary:
