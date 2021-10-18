@@ -26,47 +26,54 @@ The school district discovered that all standardized test scores for Thomas high
 
 ![Ninth Grade NaN Replacement](Resources/Deliverable1.png)
 
-We have filled the ninth grade math and reading scores with "NaN". "NaN" represents "Not-a-Number" value. We have replaced the scores with "NaN' for 461 student records. 
+We have filled the ninth grade math and reading scores with "NaN". "NaN" represents "Not-a-Number" value. 
+
+We can find the number of students removed by looking at our School Summary and taking the total of students at Thomas High School then subtracting the number of 10th-12th graders. 
+
+![9th Grade Total](Resources/9th_grade_total.png)
+
+
+
+This leaves us with a total of 461 9th grade students. Let's take a look at how this changes our School District Summary.
 
 ![Before](Resources/Before.png)
 
 ![After](Resources/After.png)
 
-We can find the number of students removed by looking at our school student totals and subtracting the number of 10th-12th graders. 
-
-While 461 students may seem like a large number to remove but we can see by the examples above that the data did not shift that significantly. 
+While 461 students may seem like a large number to remove but we can see by the examples above that the data did not shift the School Districts numbers that significantly. 
 After the change the dataset shifted only about .1% for each catergory. 
 
 ## Deliverable 2: Repeat the school district analysis
-1. School District Summary
+**1. School Summary**
 
-![school district summary](Resources/District_Summary.png)
+![School Summary](Resources/School_Summary.png)
 
-2. Top Five and Bottom Five Schools Based on Overall Passing Rate
+
+**2. Top Five and Bottom Five Schools Based on Overall Passing Rate**
 
 ![Top and bottom](Resources/Top_Bottom.png)
 
-3. Average Math Scores by Grade and School
+**3. Average Math Scores by Grade and School**
 
 ![Math Average](Resources/Average_Math.png)
 
-4. Average Reading Score by Grade and School
+**4. Average Reading Score by Grade and School**
 
 ![Reading Average](Resources/Average_Reading.png)
 
-5. School performance based on the budget per student
+**5. School performance based on the budget per student**
 
 ![Performance based on budget](Resources/school_spending_students.png)
 
-6. School performance based on the school size
+By removing the 9th graders scores, Thomas High Scool is in the $630-644 spending range.
+
+**6. School performance based on the school size**
 
 ![Performance based on size](Resources/Scores_By_School_Size.png)
 
-7. School performance based on the type of school
+**7. School performance based on the type of school**
 
 ![Performance based on school type](Resources/Scores_By_School_Type.png) 
 
-There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
-Summary:
-
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
+## Summary
+Overall the changes to the 9th grade scores at Thomas High School had an affect 
