@@ -32,13 +32,39 @@ We have filled the ninth grade math and reading scores with "NaN". "NaN" represe
 
 ![After](Resources/After.png)
 
-While 461 students may seem like a large number to remove, we can see by the examples above that the data did not shift that significantly. 
+We can find the number of students removed by looking at our school student totals and subtracting the number of 10th-12th graders. 
+
+While 461 students may seem like a large number to remove but we can see by the examples above that the data did not shift that significantly. 
 After the change the dataset shifted only about .1% for each catergory. 
 
 ## Deliverable 2: Repeat the school district analysis
 1. School District Summary
 
 ![school district summary](Resources/District_Summary.png)
+
+2. Top Five and Bottom Five Schools Based on Overall Passing Rate
+
+![Top and bottom](Resources/Top_Bottom.png)
+
+3. Average Math Scores by Grade and School
+
+![Math Average](Resources/Average_Math.png)
+
+4. Average Reading Score by Grade and School
+
+![Reading Average](Resources/Average_Reading.png)
+
+5. School performance based on the budget per student
+
+![Performance based on budget](Resources/school_spending_students.png)
+
+6. School performance based on the school size
+
+![Performance based on size](Resources/Scores_By_School_Size.png)
+
+7. School performance based on the type of school
+
+![Performance based on school type](Resources/Scores_By_School_Type.png) 
 
 There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
 Summary:
