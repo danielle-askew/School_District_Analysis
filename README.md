@@ -58,7 +58,12 @@ Percentages:
 
 ![Top and bottom](Resources/Top_Bottom.png)
 
-With the removal of the 9th grade test scores at Thomas High School, the school drops out of the top 5 but remains out of the bottom 5. 
+
+With the removal of the 9th grade test scores at Thomas High School, the school drops out of the top 5 but remains out of the bottom 5. As seen in the new top five below. 
+
+
+![Top New](Resources/Top.png)
+
 
 **3. Average Math Scores by Grade and School**
 
@@ -94,4 +99,4 @@ The medium sized schools have been affected by this change. They have now droppe
 When comparing the differences in the numbers for School Performance based on School Types, the removal of the 9th grade scores resulted in a reduction in charter school's passing percentages. 
 Before the change charter schools boasted a 94% passing math, 97% passing reading, 90% overall passing. After the removal, charter schools dropped to a 90% passing math, 93% passing reading, 87% overall passing. While charter schools experienced a drop in their percentages the numbers remain higher than district schools. 
 ## Summary
-Overall, the changes to the 9th grade scores at Thomas High School had an affect
+Overall, the changes to the 9th grade scores at Thomas High School did not distress the data too much but its effects were clear. 
