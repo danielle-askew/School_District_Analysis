@@ -48,10 +48,19 @@ After the change the dataset shifted only about .1% for each catergory.
 
 ![School Summary](Resources/School_Summary.png)
 
+Thomas high School is the only school affected. 
+
+Pecentages:
+* Math moved from 93.2% to 66.9%, a 26.3% drop
+* Reading moved from 97.3% to 69.7%, a 27.6% drop
+* Overall Passing moved from 90.9% to 65.1%, a 25.8% drop
+
 
 **2. Top Five and Bottom Five Schools Based on Overall Passing Rate**
 
 ![Top and bottom](Resources/Top_Bottom.png)
+
+With the removal of the 9th grade test scores at Thomas High School, the school drops out of the top 5 but remains out of the bottom 5. 
 
 **3. Average Math Scores by Grade and School**
 
@@ -61,11 +70,13 @@ After the change the dataset shifted only about .1% for each catergory.
 
 ![Reading Average](Resources/Average_Reading.png)
 
+The Math and Reading scores are not as heavily affected since the dataset is by school and grade level. The other grades will remain unaffected. 
+
 **5. School performance based on the budget per student**
 
 ![Performance based on budget](Resources/school_spending_students.png)
 
-By removing the 9th graders scores, Thomas High Scool is in the $630-644 spending range.
+While the impact didn't touch the average math scores or average reading scores. The overall passing percentages have been affected. There has been 6% decrease in overall % passing math, a 7% decrease in % passing reading, and a 6% decrease in % overall passing in the $630-644 spending range.By removing the 9th graders scores, Thomas High Scool is in the $630-644 spending range.
 
 **6. School performance based on the school size**
 
